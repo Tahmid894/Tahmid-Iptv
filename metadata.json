@@ -1,0 +1,6 @@
+{
+  "name": "Tahmid IPTV",
+  "description": "Modern Android IPTV player featuring live TV streams, movies, series, sports, international channels, and custom M3U playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
